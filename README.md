@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: A lifetime wish is playing "Kapustin Prelude from '8 Concert Etude, op. 40'" 🎹
 - 📫 How to reach me: On email📧
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
@@ -29,8 +27,6 @@ Here are some ideas to get you started:
 <img align="left" alt="SpringBoot" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
-
-<br />
 
 ---
 
