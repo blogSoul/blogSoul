@@ -31,15 +31,18 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
 
 <br />
+---
 
 ### 📕 My Resume
 
 
 
 <br />
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
+---
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blo9040)](https://solved.ac/blo9040)
