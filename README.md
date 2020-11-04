@@ -44,8 +44,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-
----
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blo9040)](https://solved.ac/blo9040)
