@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+<br/>
+
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
@@ -36,7 +38,10 @@ Here are some ideas to get you started:
 
 ### 📕 My Resume
 
+<br/>
 
+그 동안 공부했던 내용을 markdown파일로 정리했습니다.   
+Link: [Go to Resume]()
 
 <br />
 
