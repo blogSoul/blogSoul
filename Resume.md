@@ -8,7 +8,7 @@
 [C언어 자료구조 및 알고리즘(2019.09~2020.05)](https://github.com/blogSoul/C_summary)
 - 자료구조, 알고리즘 
 
-[객체지향설계기술(2019.12~2019.12)](https://github.com/blogSoul/Flyaway-Korea-1)
+[객체지향설계기술(2019.12~2019.12)](https://github.com/JAKEkr/Flyaway-Korea)
 - 개발도구 : C++, mfc
 
 
