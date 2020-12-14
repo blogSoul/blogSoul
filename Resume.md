@@ -1,6 +1,6 @@
 # 📕 My Resume
 
-희망 분야 : BE / DBA 
+희망 분야 : BE / DBA / AI
 
 
 ## 1. 대학교
