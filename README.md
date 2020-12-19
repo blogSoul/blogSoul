@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 그 동안 공부했던 내용을 markdown파일로 정리했습니다.
 
-<h2>__Link:__ [Go to Resume](https://github.com/blogSoul/blogSoul/blob/main/Resume.md)</h2>
+#### **Link:** [Go to Resume](https://github.com/blogSoul/blogSoul/blob/main/Resume.md)
 
 ---
 
