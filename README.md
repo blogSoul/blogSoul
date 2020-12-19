@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-그 동안 공부했던 내용을 markdown파일로 정리했습니다.   
+그 동안 공부했던 내용을 markdown파일로 정리했습니다.
 
-__Link:__ [Go to Resume](https://github.com/blogSoul/blogSoul/blob/main/Resume.md)
+<h2>__Link:__ [Go to Resume](https://github.com/blogSoul/blogSoul/blob/main/Resume.md)</h2>
 
 ---
 
@@ -49,8 +49,7 @@ __Link:__ [Go to Resume](https://github.com/blogSoul/blogSoul/blob/main/Resume.m
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blogsoul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blo9040)](https://solved.ac/blo9040)  
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blo9040)](https://solved.ac/blo9040)
 
 ---
 
