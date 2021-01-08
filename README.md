@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 <br>
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=blo9040)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blogsoul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blo9040)](https://solved.ac/blo9040)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blogsoul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
