@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working as Web Backend Developer
-- 🌱 I’m currently learning Java and Spring
+- 🔭 I’m currently working as Web Full stack Developer
+- 🌱 I’m currently learning Java, javascript and Spring
 - ⚡ Fun fact: A lifetime wish is playing "Kapustin Prelude from '8 Concert Etude, op. 40'" 🎹
 - 📫 How to reach me: On email📧
 
@@ -47,14 +47,16 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul)](https://github.com/anuraghazra/github-readme-stats)  
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=blo9040)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blogsoul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
+## [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blo9040)](https://solved.ac/blo9040)
 
 ## 🐱‍👤 Recently created repositories
 
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blogSoul&repo=coronabluechecker)](https://github.com/blogSoul/coronabluechecker)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blogSoul&repo=myBlog)](https://github.com/blogSoul/myBlog)
