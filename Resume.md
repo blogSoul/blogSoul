@@ -47,6 +47,10 @@
 
 - 취업 대비 코딩 테스트를 준비하는 온라인 소모임입니다. 일주일에 12문제를 풀고 주 4일 동안 온라인 미팅을 하며 문제 풀이 방식에 대해 토론합니다.
 
+[Programmers_Algorithm_study(2021.03.11 ~ )](https://github.com/blogSoul/Programmers_Algorithm_study)
+
+- 취업 대비 코딩 테스트를 프로그래머스로 준비하는 온라인 소모임입니다. 하루 3문제를 목표로 하고 있습니다.
+
 ## 3. 개인 공부
 
 1. **Nomadcoder** 에서 제공하는 강의로 공부
