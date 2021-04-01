@@ -58,5 +58,3 @@ Here are some ideas to get you started:
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blogSoul&repo=coronabluechecker)](https://github.com/blogSoul/coronabluechecker)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=blogSoul&repo=myBlog)](https://github.com/blogSoul/myBlog)
