@@ -57,4 +57,5 @@ Here are some ideas to get you started:
 
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EgoEco&repo=egoeco-web)](https://github.com/EgoEco/egoeco-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EgoEco&repo=egoeco-web)](https://github.com/EgoEco/egoeco-web)
+
