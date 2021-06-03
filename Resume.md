@@ -49,7 +49,12 @@
 
 [Programmers_Algorithm_study(2021.03.11 ~ )](https://github.com/blogSoul/Programmers_Algorithm_study)
 
-- 취업 대비 코딩 테스트를 프로그래머스로 준비하는 온라인 소모임입니다. 하루 3문제를 목표로 하고 있습니다.
+- 취업 대비 코딩 테스트를 프로그래머스로 준비하는 온라인 소모임입니다. 하루 3문제를 목표로 하고 있습니다. 
+ 
+[Programmers_Algorithm_study(2021.05.10 ~ )](https://github.com/EgoEco)
+
+- 제 5회 정부 개발 끝장 대회 프로젝트 링크입니다.
+
 
 ## 3. 개인 공부
 
