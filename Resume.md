@@ -22,7 +22,6 @@
 
 - 주어진 데이터를 이용해 문제 및 가설 설정, 데이터 전처리, 데이터 분석, 시각화
 - 시각화 툴 : Python - Seaborn, Matplotlib / Tableau / D3
-- 해당 프로젝트 링크 : [TrafficData_visualization](https://adoring-hopper-1c6a37.netlify.app/)
 
 ## 2. 동아리 및 대외 활동
 
