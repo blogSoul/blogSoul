@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 ## 🎩 My Experience
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blogSoul&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blogSoul&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=blogSoul&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
