@@ -39,8 +39,8 @@
 
 ## 🐱‍👤 Recently created repositories
 
-[![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=blogSoul&repo=bookathon_E)](https://github.com/blogSoul/bookathon_E/tree/main)
+<!-- [![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=blogSoul&repo=bookathon_E)](https://github.com/blogSoul/bookathon_E/tree/main)
 
 [![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=blogSoul&repo=Spring_summary)](https://github.com/blogSoul/Spring_summary)
 
-[![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=EgoEco&repo=egoeco-web)](https://github.com/EgoEco/egoeco-web)
+[![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=EgoEco&repo=egoeco-web)](https://github.com/EgoEco/egoeco-web) -->
