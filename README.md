@@ -1,7 +1,7 @@
 # 📃 blogSoul Github Profile [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FblogSoul&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🔭 I’m currently working as Web Backend Engineer
-- 🌱 I’m currently learning Java, Spring, javascript and nodeJS
+- 🌱 I’m currently learning Java, Spring, JavaScript, Node.js and MySQL 
 - ⚡ Fun fact: A lifetime wish is playing "Kapustin Prelude from '8 Concert Etude, op. 40'" 🎹
 - 📫 How to reach me: [On email📧](blo9040@gmail.com)
 
@@ -29,7 +29,7 @@
 
 ## 🎩 My Experience
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blogSoul&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[comment]: <> ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=blogSoul&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
 
@@ -39,8 +39,8 @@
 
 ## 🐱‍👤 Recently created repositories
 
-<!-- [![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=blogSoul&repo=bookathon_E)](https://github.com/blogSoul/bookathon_E/tree/main)
+[![Spring](https://github-readme-stats.vercel.app/api/pin/?username=blogSoul&repo=Spring_summary&show_owner=true)](https://github.com/blogSoul/Spring_summary)
 
-[![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=blogSoul&repo=Spring_summary)](https://github.com/blogSoul/Spring_summary)
+<!-- [![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=blogSoul&repo=bookathon_E)](https://github.com/blogSoul/bookathon_E/tree/main)
 
 [![Readme Card](https://github-readme-stats-blogsoul.vercel.app/api/pin/?username=EgoEco&repo=egoeco-web)](https://github.com/EgoEco/egoeco-web) -->
