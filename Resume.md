@@ -6,33 +6,49 @@
 
 ## 🏗 대학교 졸업 이후 활동
 
-### [해커톤 프로젝트 "coronabluechecker"](https://github.com/blogSoul/coronabluechecker)
+### [면접 스터디 "tech-interview-study"](https://github.com/blogSoul/tech-interview-study)
 
-- 기간 : 2020.12.18 ~ 2020.12.19
-- 내용 : 제 4회 정부혁신 끝장개발대회에서 만든 프로젝트로, 사용자의 코로나 블루를 진단해주는 웹, 앱 개발 프로젝트입니다.
+- 기간 : 2021.12.20 ~ 현재
+- 내용 : 신입 개발자 대상 면접을 준비하기 위한 스터디를 진행하고 있습니다.
 
-### [알고리즘 소모임 "2020-ASW"](https://github.com/2020-ASW/minwook_soul)
+### [부스트캠프 멤버쉽 프로젝트 "Booslack"](https://github.com/boostcampwm-2021/web06-booslack)
 
-- 기간 : 2020.12.21 ~ 2021.03.09
-- 내용 : 취업 대비 코딩 테스트를 준비하는 온라인 소모임입니다. 일주일에 12문제를 풀고 주 4일 동안 온라인 미팅을 하며 문제 풀이 방식에 대해 토론합니다.
+- 기간 : 2021.10.25 ~ 2021.12.06
+- 개발도구 : JavaScript, React, Recoil, Node.js, Express, TypeORM, MySQL 
+- 내용 : 부스트캠프에서 주최하는 해커톤에서 익명 게시판 기능 및 오늘의 운세 기능 관련 프로젝트입니다.
+
+### [부스트 캠프 해커톤 프로젝트 "맛좀볼래?!"](https://github.com/boostcampwm-2021/bookathon_E)
+
+- 기간 : 2021.09.03 ~ 2021.09.04
+- 개발도구 : JavaScript, React, Node.js, Express, neDB
+- 내용 : 부스트캠프에서 주최하는 해커톤에서 익명 게시판 기능 및 오늘의 운세 기능 관련 프로젝트입니다.
+
+### [네이버 부스트 캠프 웹 풀스택 과정 ](https://github.com/boostcampwm-2021)
+
+- 기간 : 2021.07.19 ~ 2021.12.06
+- 학습 내용 : javaScript, 비동기, 자료구조, TCP/IP, 객체지향, 아키텍처, 크롤링 등등
+- 내용 : 네이버에서 주최하는 부스트 캠프 과정을 참여하고 있고 챌린지 과정을 수료하고 멤버쉽 과정에 참여했습니다. javascript로 다양한 과제를 수행하고 있습니다.
 
 ### [해커톤 프로젝트 "Egoeco"](https://github.com/EgoEco)
 
 - 기간 : 2021.05.10 ~ 2021.06.05
+- 개발도구 : JavaScript, React, Java, Spring, Mysql
 - 내용 : 제 5회 정부 개발 끝장 대회 프로젝트입니다. **에고에코앱**은 차량 운행 정보(엔진 RPM, 속도 등)를 측정해서 경제적인 운전 습관을 기를 수 있도록 도와주는 앱입니다.
 - 프로젝트 Frontend 파트 리퍼지토리 링크 : [Go to Link](https://github.com/EgoEco/egoeco-web)
 - 프로젝트 Backend 파트 리퍼지토리 링크 : [Go to Link](https://github.com/EgoEco/egoeco-server)
 - 프로젝트 링크 : [Go to Website](https://egoeco.netlify.app/)
 
-### [네이버 부스트 캠프 과정 ](https://github.com/boostcampwm-2021)
+### [해커톤 프로젝트 "coronabluechecker"](https://github.com/blogSoul/coronabluechecker)
 
-- 기간 : 2021.07.19 ~ 현재 
-- 내용 : 네이버에서 주최하는 부스트 캠프 과정을 참여하고 있고 챌린지 과정을 수료하고 멤버쉽 과정에 참여하고 있습니다. javascript로 다양한 과제를 수행하고 있습니다.
+- 기간 : 2020.12.18 ~ 2020.12.19
+- 개발도구 : JavaScript, React, Python
+- 내용 : 제 4회 정부혁신 끝장개발대회에서 만든 프로젝트로, 사용자의 코로나 블루를 진단해주는 웹, 앱 개발 프로젝트입니다.
 
-### [부스트 캠프 해커톤 프로젝트 "맛좀볼래?!"](https://github.com/boostcampwm-2021/bookathon_E)
+### [알고리즘 소모임 "2020-ASW"](https://github.com/2020-ASW/minwook_soul)
 
-- 기간 : 2021.09.03 ~ 2021.09.04
-- 내용 : 부스트캠프에서 주최하는 해커톤에서 익명 게시판 기능 및 오늘의 운세 기능 관련 프로젝트입니다.
+- 기간 : 2020.12.21 ~ 2021.03.09
+- 개발도구 : C, Python, Java, JavaScript
+- 내용 : 취업 대비 코딩 테스트를 준비하는 온라인 소모임입니다. 일주일에 12문제를 풀고 주 4일 동안 온라인 미팅을 하며 문제 풀이 방식에 대해 토론합니다.
 
 ## 🏫 대학 생활 내에서의 활동
 
