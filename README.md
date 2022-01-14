@@ -29,7 +29,7 @@
 
 ## 🎩 My Experience
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blogSoul&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blogSoul&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
 
