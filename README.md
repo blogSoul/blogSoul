@@ -29,13 +29,13 @@
 
 ## 🎩 My Experience
 
-[comment]: <> ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=blogSoul&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
+<!-- [comment]: <> ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=blogSoul&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blogSoul&theme=default)](https://github.com/anuraghazra/github-readme-stats)   -->
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=blogSoul&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blo9040)](https://solved.ac/blo9040)
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blo9040)](https://solved.ac/blo9040) -->
 
 ## 🐱‍👤 Recently created repositories
 
