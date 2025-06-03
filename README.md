@@ -16,7 +16,7 @@
 
 ## My Experience
 
-> 그 동안 공부했던 내용을 markdown 파일로 정리했습니다.
+> I have organized the content I've studied so far into markdown files.
 
 Link: [🔗Go to Resume](https://github.com/blogSoul/blogSoul/blob/main/Resume.md)
 
